@@ -1,0 +1,7 @@
+/nbproject/
+/target/
+/Playlists/
+/test/
+*.txt
+nb*.xml
+.idea/

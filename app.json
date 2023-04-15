@@ -1,0 +1,19 @@
+{
+  "name": "KMusicBot-Fork",
+  "description": "Music bot with many features",
+  "repository": "https://github.com/d1m0s23/KMusicBot-Fork",
+  "keywords": [
+    "java", "jda", "discord", "discord bot", "discord music bot", "music discord"
+  ],
+  "env": {
+    "TOKEN": {
+      "description": "Discord bot application token."
+    },
+    "OWNER": {
+      "description": "Discord id of the bot owner."
+    },
+    "PREFIX": {
+      "description": "Bot prefix."
+    }
+  }
+}
